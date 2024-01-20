@@ -39,4 +39,4 @@ intro ,
 
 <h2>I am good at designing as well</h2>
 <p> Since my 10 th grade i have started learning designing things from Canva and i am presently the design member in our collage clubs as well </p>
-<h3>Check out my work in this drive <link> https://drive.google.com/drive/folders/1whe8QmR4hPRt7LYlGu-UbMZphOJqsI3I?usp=drive_link <\link> </h3>
+<h3>Check out my work in this drive https://drive.google.com/drive/folders/1whe8QmR4hPRt7LYlGu-UbMZphOJqsI3I?usp=drive_link  </h3>
