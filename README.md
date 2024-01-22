@@ -37,6 +37,6 @@ intro ,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-<h2>I am good at designing as well</h2>
+<h1>I am good at designing as well</h1>
 <p> Since my 10 th grade i have started learning designing things from Canva and i am presently the design member in our collage clubs as well </p>
 <h3>Check out my work in this drive https://drive.google.com/drive/folders/1whe8QmR4hPRt7LYlGu-UbMZphOJqsI3I?usp=drive_link  </h3>
